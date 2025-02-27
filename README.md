@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Charles Raja R
 - 🔭 Here's my [portfolio](https://charlesrajar-portfolio.netlify.app/)
-- - Engineering student at Anna University                
+- Engineering student at Anna University                
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
 
 
