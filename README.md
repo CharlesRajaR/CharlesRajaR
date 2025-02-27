@@ -3,6 +3,7 @@
 - Engineering student at Anna University                
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
 - Social Presence
+  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r-charles-raja-2930b8225)
 
 
