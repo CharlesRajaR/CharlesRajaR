@@ -15,6 +15,8 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Charles_Raja_R?theme=dark&font=Allerta&ext=contest)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CharlesRajaR&bg_color=222021&color=f8f7f8&line=4c9e56&point=7fbfcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **CharlesRajaR/CharlesRajaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
