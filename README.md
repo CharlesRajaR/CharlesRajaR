@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Charles Raja R
 - 🔭 Here's my [portfolio](https://charlesrajar-portfolio.netlify.app/)
 - Engineering student at Anna University                
-- 🌱 I’m currently learning Data Structures and Algorithms 
+- 🌱 I'm a passionate Full-Stack Developer with experience in Java, Spring Boot, React, Next.js, MySQL,Django and a strong foundation in Data Structures & Algorithms. Currently, I'm diving deep into System Design, refining my ability to architect scalable and efficient solutions. I thrive on solving complex problems, writing clean and maintainable code, and continuously learning to improve my craft. Whether it's backend services, frontend interfaces, or database optimization, I love building seamless experiences that make a real impact.
 - Social Presence
   
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r-charles-raja-2930b8225)
