@@ -1,10 +1,11 @@
 ## Hi there 👋 It's me Charles Raja R
-- 🔭 Here's my [portfolio](https://charlesrajar-portfolio.netlify.app/)
-- Engineering student at Anna University                
-- 🌱 I'm a passionate Full-Stack Developer with experience in Java, Spring Boot, React, Next.js, MySQL,Django and a strong Knowledge in Data Structures & Algorithms. Currently, I'm diving deep into System Design, refining my ability to architect scalable and efficient solutions. I thrive on solving complex problems, writing clean and maintainable code, and continuously learning to improve my craft. Whether it's backend services, frontend interfaces, or database optimization, I love building seamless experiences that make a real impact.
-- Social Presence
-  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r-charles-raja-2930b8225)
+- Engineering student at Anna University
+- I'm a passionate Full-Stack Developer with experience in Java, Spring Boot, React, Next.js, MySQL, Flask and a strong Knowledge in Data Structures & Algorithms, Multithreading, Design Patterns, Object oriented analysis and design and LLD. Currently, I'm diving deep into System design refining my ability to architect scalable and efficient solutions. I thrive on solving complex problems, writing clean and maintainable code, and continuously learning to improve my craft. Whether it's backend services, frontend interfaces, or database optimization, I love building seamless experiences that make a real impact.
+- Currently exploring Artificial Intelligence, Machine Learning, and Deep Learning — building a strong foundation in model development, data preprocessing, model training and algorithmic thinking. Hands-on knowledge with basic libraries like numpy, pandas, seaborn and frameworks like TensorFlow, PyTorch, Scikit-learn, Keras, and OpenCV for tasks ranging from classification and regression to computer vision and neural networks. Eager to integrate these capabilities with my backend engineering skills to create intelligent, scalable applications.
+
+## Social Presence
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r-charles-raja-2930b8225)
+  [portfolio](https://charlesrajar-portfolio.netlify.app/)
 
 
 ### I code in
@@ -12,7 +13,7 @@
 
 
 ### IDE and Tools I Use
-<img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo.png" alt="external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/hugging-face_app.png" alt="hugging-face_app"/><img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Charles_Raja_R?theme=dark&font=Allerta&ext=contest)
