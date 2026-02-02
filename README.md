@@ -1,12 +1,12 @@
 ## Hi there 👋 It's me Charles Raja R
 ### Engineering student at Anna University(2025 Batch) | Full Stack Web developer | Artificial Intelligence and Machine Learning Enthusiast 
-  // Seeking new opportunities | Let's build the future of software together.
+  [//]: # ( Seeking new opportunities | Let's build the future of software together.)
 - I'm a passionate Full-Stack Developer with strong Knowledge in Java, Python, Spring Boot, React, Next.js, MySQL, Mongodb, HTML, CSS, JS, TS, Fast api, Flask, Data Structures & Algorithms, Multithreading, Design Patterns, Object oriented analysis and design and LLD. I'm diving deep into System design refining my ability to architect scalable and efficient solutions. I thrive on solving complex problems, writing clean and maintainable code, and continuously learning to improve my craft. Whether it's backend services, frontend websites, or database optimization, I love building seamless experiences that make a real impact.
 - I am also an expert in Artificial Intelligence, Machine Learning, Deep Learning, Agentic Ai, RAG — building a strong foundation in model development, data preprocessing, model training and model evaluation.I have hands-on experience with technologies ranging from basic libraries to advanced frameworks(numpy, pandas, matplotlib, seaborn, PyTorch, Scikit-learn, Langchain, Langgraph and Vector DBs like chromadb, Faiss). I Apply these capabilities to create intelligent, scalable applications.
 
-// ```
-// git commit -m "Seeking a new job role; open to roles in backend/frontend development and ai/ml field"
-// ```
+[//]: # (```
+ git commit -m "Seeking a new job role; open to roles in backend/frontend development and ai/ml field"
+// ``` )
 
 ## Social Presence
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r-charles-raja-2930b8225)
