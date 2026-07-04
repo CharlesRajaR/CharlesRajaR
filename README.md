@@ -12,9 +12,13 @@
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/r-charles-raja-2930b8225)
   [portfolio](https://charlesrajar-portfolio.netlify.app/)
 
-## Internship certificate
-https://drive.google.com/file/d/1tY_mtpTi8ZmDEYSwjzJPUiTY1Md4KCbj/view?usp=sharing
+## Internship certificates
+### AI/ML  Intern
 ![Alt text](https://drive.google.com/uc?export=view&id=1tY_mtpTi8ZmDEYSwjzJPUiTY1Md4KCbj)
+
+### Software Developer Intern
+![Alt text](https://drive.google.com/uc?export=view&id=1bulapGXzYaHy3xsjmjyzaQ5KDSqjcoaS)
+
 
 ## I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/><img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/> <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
