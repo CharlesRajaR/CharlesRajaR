@@ -34,8 +34,9 @@
 - I completed a 3‑month internship as an AI/ML Intern at iOPEX Technologies, Guindy, Chennai, where I gained hands‑on experience in machine learning and generative AI. In the first month, I trained on core ML concepts such as supervised vs. unsupervised learning, regression, classification, bias‑variance tradeoff, cross‑validation, and evaluation metrics, applying them to the Titanic dataset through data cleaning, EDA, feature engineering, model training, and evaluation using scikit‑learn pipelines. In the second month, I worked on a telecom customer churn dataset, handling imbalanced and noisy data with SMOTE, scaling, and encoding, then trained models including Logistic Regression, Decision Trees, Random Forest, KNN, SVM, AdaBoost, XGBoost, and CatBoost, applying hyperparameter tuning to build an optimized churn prediction model. In the third month, I collaborated with a team of six to develop a RAG pipeline indexing tool using LangChain, FastAPI, ChromaDB, FAISS, and embeddings from Sentence Transformers and Gemini, supporting multiple chunking strategies and vector DB storage with a retrieval UI. Additionally, I completed a one‑week hands‑on training in RPA using Blue Prism.
 - Certificate:
 ![Alt text](https://drive.google.com/uc?export=view&id=1tY_mtpTi8ZmDEYSwjzJPUiTY1Md4KCbj)
-
+  
 ### Software Developer Intern 
+- Certificate
 ![Alt text](https://drive.google.com/uc?export=view&id=1bulapGXzYaHy3xsjmjyzaQ5KDSqjcoaS)
 <!--
 **CharlesRajaR/CharlesRajaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
